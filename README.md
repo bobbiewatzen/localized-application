@@ -1,0 +1,1 @@
+A small project with Internationalization and locale
